@@ -563,6 +563,7 @@
   :custom
   (lsp-prefer-flymake nil)
   (lsp-enable-symbol-highlighting nil)
+  (lsp-enable-on-type-formatting nil)
   (lsp-signature-auto-activate nil))
 
 (use-package lsp-java
